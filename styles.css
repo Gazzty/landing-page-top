@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.upper-background{
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    padding-top: 2%;
+}
+
+.header-item{
+    flex: 1 1 0%;
+}
+
+.header-logo{
+    margin-left: 12%;
+    flex: 2.5 1 0%;
+}
+
+.header-link{
+    flex: .85 1 0%;
+    font-size: 18px;
+    color: #e5e7eb;
+}
